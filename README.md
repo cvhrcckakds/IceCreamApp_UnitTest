@@ -59,4 +59,4 @@ gerçek kullanıcıdan uzak tepkiler verdiği için artık yerini userEvente bı
 
 # Project Gif:
 
-<img src="./public/icecream.gif" >
+<img src="./public/icecream.gif" ># IceCreamApp_UnitTest
